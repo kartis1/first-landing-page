@@ -118,5 +118,7 @@ button {
     justify-content: center;
     padding: 50px;
 
-
+}
+.info {
+    max-width: 200px;
 }
