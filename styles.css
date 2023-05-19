@@ -31,5 +31,21 @@ a {
 
 
 }
+.hero-banner {
+    height: 400px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
 
+}
 
+.hc-left, .hc-right{
+    display: flex;
+    align-items: center
+
+}
+
+img {
+    width: 400px;
+    height: 267px;
+}
