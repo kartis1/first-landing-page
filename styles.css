@@ -233,3 +233,20 @@ button {
 .small-text{
     color: #F9FAF8;
 }
+.footer{
+    height: 100px;
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.copyright{
+    color: #F9FAF8;
+    font-weight: 200;
+    font-size: 12px;
+    
+
+
+}
