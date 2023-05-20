@@ -193,7 +193,43 @@ button {
 }
 
 .section3{
+    height: 500px;
+    background-color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 
+}
+
+.cta-square{
+    border-radius: 18px;
+    background: #3882F6;
+    padding: 20px; 
+    width: 1000px;
+    height: 125px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.items-left{
+    padding-left: 60px;
+
+}
+
+.items-right{
+    padding-right: 100px;
+
+}
+
+.cta { 
+    color: #F9FAF8;
+    font-weight:700;
     
+}
+.small-text{
+    color: #F9FAF8;
 }
