@@ -23,6 +23,7 @@ body {
 .right-link{
     list-style-type: none;
     padding-right: 200px;
+    letter-spacing: 2px;
 }
 
 a {
@@ -166,18 +167,27 @@ button {
     }
 
 
-.container{
+.container {
     display:flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
  
 }
 
-.quote{
+.quote {
+    display: flex;
     font-size: 36px;
     width: 700px;
+    font-weight: 200;
+    
+    
 }  
 
 .quote-author{
-    
+    display: flex;
+    align-items: flex-end;
+    padding-left: 510px;
+
 
 }
