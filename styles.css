@@ -3,6 +3,7 @@ body {
     height: 100vh;
     margin: 0;
 }
+
 .header {
     height: 150px;
     background-color: #1F2937;
@@ -57,21 +58,23 @@ img {
     align-items: flex-start;
     justify-content: center;
     padding: 200px;
+
 }
 
+.hero-copy {
+    font-size: 18px;
+    color: #E5E7EB;
+
+  }
+
 .h1 {
-    font-size: 48px;
+    font-size: 55px;
     font-weight: 900;
     color: #F9FAF8;
     padding-bottom: 5px;
     
 }
-.h2{
-    font-size: 18px;
-    color: #F9FAF8;
-    padding-bottom: 30px;
 
-}
 
 button {
     background-color: initial;
@@ -113,6 +116,14 @@ button {
 
 }
 
+.h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+
+
+}
+
 .mini-section{
     display: flex;
     justify-content: center;
@@ -122,3 +133,4 @@ button {
 .info {
     max-width: 200px;
 }
+
